@@ -41,4 +41,3 @@ https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 https://tgc.cloud/downloads/hosts.txt
 https://badmojr.github.io/1Hosts/Pro/hosts.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AdAway-Default-Blocklist.txt"
