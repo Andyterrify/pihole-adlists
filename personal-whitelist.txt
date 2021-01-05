@@ -2,3 +2,4 @@ monitor.channel4.com
 mobile.logs.roku.com
 b-graph.facebook.com
 ms.sc-jpl.com # breaks snapchat
+aws.api.sc-gw.com
