@@ -5,3 +5,4 @@ ms.sc-jpl.com # breaks snapchat
 aws.api.sc-gw.com
 yt3.ggpht.com
 i.ytimg.com
+forms.office.com
