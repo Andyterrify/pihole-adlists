@@ -6,3 +6,5 @@ aws.api.sc-gw.com
 yt3.ggpht.com
 i.ytimg.com
 forms.office.com
+err.joinhoney.com
+media-exp1.licdn.com # breaks linkedin
