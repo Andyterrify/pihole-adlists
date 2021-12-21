@@ -12,3 +12,4 @@ media-exp1.licdn.com # breaks linkedin
 aqueduct.revolutlabs.com
 login.microsoftonline.com
 www.paypalobjects.com
+d.joinhoney.com
