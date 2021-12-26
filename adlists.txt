@@ -36,8 +36,8 @@ https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # New from filelists.com
-https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
-https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-https://tgc.cloud/downloads/hosts.txt
-https://badmojr.github.io/1Hosts/Pro/hosts.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt
+# https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
+# https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+# https://tgc.cloud/downloads/hosts.txt
+# https://badmojr.github.io/1Hosts/Pro/hosts.txt
+# https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt
