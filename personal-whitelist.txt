@@ -14,3 +14,4 @@ login.microsoftonline.com
 www.paypalobjects.com
 d.joinhoney.com
 dyn.keepa.com
+analytics.plex.to
